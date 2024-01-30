@@ -1,5 +1,3 @@
-Based on the information provided from the source code and the design and demo documents, here's a draft for a GitHub README for the Straights game project:
-
 ---
 
 # Straights Game
