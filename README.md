@@ -55,5 +55,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Utilization of C++ features and design patterns
 
 ---
-
-Feel free to adjust the README to better fit your project's needs or to add any additional sections that you feel are necessary.
